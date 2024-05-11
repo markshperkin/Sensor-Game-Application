@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <h1>Sensor App</h1>
+  <h1>Sensor Game App</h1>
 
   <h2>Description</h2>
   <p>The Sensor app is an Android application that utilizes device orientation sensors to create a simple game. Initially built upon the professor's starter app by Robert Bailey, which displayed the device's orientation, I implemented additional functionality to turn it into a game. The objective of the game is to place a small circle on a larger circle by tilting the device, leveraging the device's orientation sensors for gameplay.</p>
