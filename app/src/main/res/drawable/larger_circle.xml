@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <!-- Circle fill color -->
+    <solid android:color="#0000FF"/>
+    <!-- Circle border color and width -->
+    <stroke
+        android:width="5dp"
+        android:color="#000000"/>
+    <!-- Circle size -->
+    <size
+        android:width="50dp"
+        android:height="50dp"/>
+</shape>
